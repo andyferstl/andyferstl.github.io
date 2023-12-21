@@ -1,6 +1,6 @@
 title: Dr. Andrew Ferstl
 logo: /assets/img/Hilton_Head_2.jpeg
 description:  a
-show_downloads: true
+# show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
