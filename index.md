@@ -2,19 +2,34 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I'm currently a physics professor at <a href="https://www.winona.edu/physics"> Winona State University </a>.
 
-[Link to another page](./another-page.html).
+[Fall 2024 Office Hours and Class Schedule](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Classroom Resources
 
-# Header 1
+You can see your WSU Brightspace D2L site for course material.  Here is some more additional material
+<ul>
+<li> Textbooks </li>
+<ul>
+<li> The classic <a href="http://feynmanlectures.caltech.edu/"  target ="_blank"> Feynman Lectures </a>  </li>
+<li> A free algebra-based textbook from <a href="http://openstaxcollege.org/books"  target ="_blank"> Open Stax </a>  </li>
+<li> A free algebra-based textbook called <a href="http://www.lightandmatter.com/lm/"  target ="_blank"> Light and Matter</a> by Crowell  </li>
+<li> A free calculus-based textbook called <a href="http://www.lightandmatter.com/area1sn.html"  target ="_blank"> Simple Nature</a> by Crowell </li> 
+</ul>
+<li> Simulations and Videos </li>
+<ul>
+<li> From Colorado <a href="http://phet.colorado.edu"  target ="_blank"> PhET simulations </a>  </li>
+<li> From KSU <a href="http://phys.educ.ksu.edu/"  target ="_blank"> Vidual Quantum Mechanics</a>  </li>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<li> Videos for analysis <a href="http://livephoto.rit.edu"  target ="_blank"> LivePhoto Physics </a>. (you can find many more videos on youtube as well)  </li>
+<li> Videos for analysis <a href="http://serc.carleton.edu/dmvideos/videos.html" target = "_blank"> Direct Measurement Videos </a> </li>
 
-## Header 2
+</ul>
+</ul>
+
+# Career Information
 
 > This is a blockquote following a header.
 >
