@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## Coming in Fall 2024
 
 _yay_
 
