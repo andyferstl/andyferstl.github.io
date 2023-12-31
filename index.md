@@ -9,7 +9,7 @@ I'm currently a physics professor at <a href="https://www.winona.edu/physics" ta
 
 ## Classroom Resources
 
-You can see your WSU Brightspace D2L site for course material.  Here is some more additional material
+You can see your WSU Brightspace D2L site for course material.  Here is some additional material
 <ul>
 <li> Textbooks </li>
 <ul>
