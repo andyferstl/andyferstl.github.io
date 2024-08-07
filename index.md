@@ -14,7 +14,7 @@ You can see your WSU Brightspace D2L site for course material.  Here is some add
 <li> Textbooks </li>
 <ul>
 <li> The classic <a href="http://feynmanlectures.caltech.edu/"  target ="_blank"> Feynman Lectures </a>  </li>
-<li> A free algebra-based and a free calculus based textbook from <a href="https://openstax.org"  target ="_blank"> Open Stax </a>  </li>
+<li> A free algebra-based and a free calculus-based textbook from <a href="https://openstax.org"  target ="_blank"> Open Stax </a>  </li>
 <li> A free algebra-based textbook called <a href="http://www.lightandmatter.com/lm/"  target ="_blank"> Light and Matter</a> by Crowell  </li>
 <li> A free calculus-based textbook called <a href="http://www.lightandmatter.com/area1sn.html"  target ="_blank"> Simple Nature</a> by Crowell </li> 
 </ul>
