@@ -4,7 +4,7 @@ layout: default
 
 I'm currently a physics professor at <a href="https://www.winona.edu/physics" target ="_blank"> Winona State University </a> where we offer degrees in Physics and General Engineering
 
-[Fall 2024 Office Hours and Class Schedule]((https://github.com/user-attachments/assets/42ceacf9-ed51-4e72-b1ef-fadc090de1ac))
+[Fall 2024 Office Hours and Class Schedule](./another-page.html)
 
 ## Classroom Resources
 
@@ -32,4 +32,3 @@ You can see your WSU Brightspace D2L site for course material.  Here is some add
    <li> <a href="https://www.bls.gov/ooh/"  target ="_blank">  Occupational Outlook Handbook </a> </li>
 </ul>
 
-[Blank](./another-page.html).
