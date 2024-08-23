@@ -2,7 +2,6 @@
 layout: default
 ---
 
-![image](https://github.com/user-attachments/assets/42ceacf9-ed51-4e72-b1ef-fadc090de1ac)
-
+![Fall24Sch](https://github.com/user-attachments/assets/3e14b3a4-c2df-45c3-abe9-d92765210212)
 
 [back](./)
