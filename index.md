@@ -4,7 +4,7 @@ layout: default
 
 I'm currently a physics professor at <a href="https://www.winona.edu/physics" target ="_blank"> Winona State University </a> where we offer degrees in Physics and General Engineering
 
-[Fall 2024 Office Hours and Class Schedule](./another-page.html)
+[Spring 2025 Office Hours and Class Schedule](./another-page.html)
 
 ## Classroom Resources
 
