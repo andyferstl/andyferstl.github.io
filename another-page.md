@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-![Spring25_OH](https://github.com/user-attachments/assets/3c62e722-dd32-4ab5-944b-b3bdc30c5f1e)
+![Spring25 Office Hours](https://github.com/user-attachments/assets/26c32390-4ec2-43fc-b5d8-eeae85f2281d)
+
 
 
 
