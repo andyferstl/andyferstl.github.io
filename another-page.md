@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![Fall 25 Schedule](https://github.com/user-attachments/assets/628dd23b-718e-47d2-ada5-adcce9187c55)
+![schedule](https://github.com/user-attachments/assets/7a1af1a1-cdb4-4943-85f0-684dc32e1a9a)
 
 
 
