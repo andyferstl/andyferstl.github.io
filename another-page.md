@@ -1,10 +1,7 @@
 ---
 layout: default
 ---
-![Spring26_sch](https://github.com/user-attachments/assets/88177e9d-8277-4ac0-800d-8e3a5a82ac5c)
-
-
-
+<img width="1700" height="2200" alt="Fall26Sch" src="https://github.com/user-attachments/assets/65a76805-1206-486d-b053-6702d5eb86aa" />
 
 
 [back](./)
